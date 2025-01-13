@@ -1,4 +1,5 @@
-## Hi there 👋🏻🧑🏻‍💻☁️🇺🇦
+## Hello 👋🏻🧑🏻‍💻☁️🇺🇦
 
-### I'm a DevOps Engineer and I love it. Automation 😍
-### I am currently actively studying Terraform ⚙️
+## I'm a DevOps Engineer and I love it. Automation 😍
+## Currently actively learning Python 🐍
+️
